@@ -1,5 +1,6 @@
 # Helian-Home-Monitor
-ESP32 IoT home monitoring system that monitors temperature, humidity, and motion.
+ESP32 IoT home monitoring system that monitors temperature, humidity,and motion.
+
 ## Components
 - ESP32
 - DHT sensor
