@@ -1,3 +1,8 @@
+// DHT11 Temperature & Humidity Reading
+// Board: ESP32
+// Pin: GPIO18
+// Reads data from DHT11 sensor and prints to Serial Monitor
+
 # include <DHT.h>
 # define DHTPIN 18
 # define DHTTYPE DHT11
