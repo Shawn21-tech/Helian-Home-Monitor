@@ -4,7 +4,7 @@
 // Reads data from DHT11 sensor and prints to Serial Monitor
 
 # include <DHT.h>
-# define DHTPIN 18
+# define DHTPIN 2
 # define DHTTYPE DHT11
 
 DHT dht(DHTPIN, DHTTYPE);
